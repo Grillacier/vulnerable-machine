@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
 =======
+=======
+*.zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> fb589f9 (some french (sorry) walkthroughs)
 *.ova filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 2f52e4f (some french (sorry) walkthroughs)
